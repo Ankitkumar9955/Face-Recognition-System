@@ -75,9 +75,6 @@ Integrate additional features like emotion detection or age estimation.
 Contributing
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgments
 OpenCV library for providing powerful computer vision tools.
 Haar Cascade Classifier for enabling efficient face detection.
