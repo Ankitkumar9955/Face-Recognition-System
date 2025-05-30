@@ -1,12 +1,13 @@
 # Face Recognition System using OpenCV
 This project implements a face recognition system using OpenCV. It leverages the haarcascade_frontalface_default.xml file to detect faces in images, crop them, and create a dataset for future predictions. The system also converts RGB images to grayscale to reduce complexity and improve performance.
-
 Features
 Detects faces in real-time using the Haar Cascade Classifier.
 Converts RGB images to grayscale for simpler processing.
 Extracts face coordinates using the detectMultiScale method.
 Allows customization of parameters like scale factor and minimum neighbors for better accuracy.
 Collects up to 200 face images or stops when the user presses the Enter key.
+
+
 
 How It Works
 Face Detection:
@@ -31,7 +32,6 @@ Model: Haar Cascade Classifier (haarcascade_frontalface_default.xml)
 
 Setup Instructions
 Clone the repository:
-
 bash
 [git clone https://github.com/Ankitkumar9955/Face-Recognition-System.git](https://github.com/Ankitkumar9955/Face-Recognition-System)
 cd face-recognition-opencv
